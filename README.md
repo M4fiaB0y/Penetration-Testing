@@ -11,7 +11,6 @@
   - **Android Keylogger :** Android Keylogging Keyboard + Reverse Shell.
   - **Take Face Webcam :** Take face shot from the target phone's front camera and PC webcam.
  
- ![Screenshot from 2021-02-15 00-55-38](https://user-images.githubusercontent.com/58439463/107884649-b15d7880-6f28-11eb-929e-1f39e37e1f0e.png)
  
 ## Features !
  - Hide apps in android files.
